@@ -1,5 +1,4 @@
 import { v4 as uuidGen } from "uuid";
-import { doSomething, doSomethingPromise, stepTwo } from "../promises/promises";
 
 class Growdever {
     constructor(
